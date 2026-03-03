@@ -1,8 +1,8 @@
 # Curso Postgres SQL
 
-## Inicio
+## Creación Proyecto
 
-1. Clonar git: Copiar contenido de **Docker Compose**
+1. Copiar contenido de **Docker Compose**
 
 ```
 https://gist.github.com/Klerith/7bc972b4e1d717e75951ccb771e12c4d
@@ -16,4 +16,4 @@ https://gist.github.com/Klerith/7bc972b4e1d717e75951ccb771e12c4d
 docker compose up -d
 ```
 
-### Header
+### Start
